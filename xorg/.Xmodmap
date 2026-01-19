@@ -1,0 +1,3 @@
+! Swap Backspace and Backslash/Pipe
+keycode 22 = backslash bar
+keycode 51 = BackSpace

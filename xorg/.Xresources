@@ -31,7 +31,7 @@ XTerm*cursorColor: #e0def4
 
 ! ---------- Font ----------
 XTerm*faceName: JetBrainsMono Nerd Font Mono
-XTerm*faceSize: 14
+XTerm*faceSize: 16
 
 ! ---------- Mouse / Scrollback ----------
 XTerm*scrollBar: false
